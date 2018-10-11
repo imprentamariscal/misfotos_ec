@@ -1,3 +1,28 @@
 <resources>
     <string name="app_name">misfotos.ec</string>
+    <string name="titulo_inicio">Inicie Sesion</string>
+    <string name="titulo_registro">Registro de Usuario</string>
+
+
+    <string name="lbl_email" translatable="false">Email</string>
+    <string name="lbl_nombre">Nombre</string>
+    <string name="lbl_apellido">Apellido</string>
+    <string name="lbl_clave">Contraseña</string>
+    <string name="lbl_fono">Celular</string>
+    <string name="lbl_fecha_nac">Fecha Nacimiento</string>
+
+
+
+
+
+    <string name="etiq_ingrese_datos">Ingrese los siguientes datos:</string>
+
+
+    <string name="btn_ingresar">Ingresar</string>
+    <string name="btn_aceptar">Aceptar</string>
+    <string name="btn_guardar">Guardar</string>
+    <string name="btn_registrarse">Registrarse</string>
+
+
+
 </resources>
