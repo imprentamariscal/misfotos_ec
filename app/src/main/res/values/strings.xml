@@ -23,6 +23,12 @@
     <string name="btn_guardar">Guardar</string>
     <string name="btn_registrarse">Registrarse</string>
 
+    <string-array name="tamanioFL">
+        <item>21×15 cm</item>
+        <item>28×21 cm</item>
+        <item>30×24 cm</item>
+        <item>41×29 cm</item>
+    </string-array>
 
 
 </resources>
